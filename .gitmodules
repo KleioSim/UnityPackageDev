@@ -1,0 +1,3 @@
+[submodule "UnityPackage.TilemapObservable"]
+	path = UnityPackage.TilemapObservable
+	url = git@github.com:KleioSim/UnityPackage.TilemapObservable.git
