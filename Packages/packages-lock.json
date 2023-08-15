@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.jbruening.mvvm": {
+      "version": "file:MvvmFramework",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.kleiosim.tilemapobservable": {
       "version": "file:TilemapObservable",
       "depth": 0,

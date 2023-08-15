@@ -1,3 +1,6 @@
 [submodule "Packages/TilemapObservable"]
 	path = Packages/TilemapObservable
 	url = git@github.com:KleioSim/UnityPackage.TilemapObservable.git
+[submodule "Packages/MvvmFramework"]
+	path = Packages/MvvmFramework
+	url = git@github.com:KleioSim/UnityPackage.MvvmFramework.git
