@@ -4,3 +4,6 @@
 [submodule "Packages/MvvmFramework"]
 	path = Packages/MvvmFramework
 	url = git@github.com:KleioSim/UnityPackage.MvvmFramework.git
+[submodule "Packages/UI.CameraControl"]
+	path = Packages/UI.CameraControl
+	url = git@github.com:KleioSim/UnityPackage.UI.CameraControl.git

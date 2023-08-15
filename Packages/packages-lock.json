@@ -12,6 +12,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.kleiosim.ui.cameracontrol": {
+      "version": "file:UI.CameraControl",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "8.0.2",
       "depth": 1,
