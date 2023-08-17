@@ -7,3 +7,6 @@
 [submodule "Packages/UI.CameraControl"]
 	path = Packages/UI.CameraControl
 	url = git@github.com:KleioSim/UnityPackage.UI.CameraControl.git
+[submodule "UnityPackages/Noesis.NoesisGUI"]
+	path = UnityPackages/Noesis.NoesisGUI
+	url = git@github.com:KleioSim/UnityPackage.Noesis.NoesisGUI.git
