@@ -10,3 +10,6 @@
 [submodule "Packages/Noesis.NoesisGUI"]
 	path = Packages/Noesis.NoesisGUI
 	url = git@github.com:KleioSim/UnityPackage.Noesis.NoesisGUI.git
+[submodule "Packages/mvpframe"]
+	path = Packages/mvpframe
+	url = git@github.com:KleioSim/mvpframe.git

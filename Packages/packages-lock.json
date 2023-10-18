@@ -6,6 +6,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.kleiosim.mvpframe": {
+      "version": "file:com.kleiosim.mvpframe",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.kleiosim.tilemapobservable": {
       "version": "file:TilemapObservable",
       "depth": 0,
